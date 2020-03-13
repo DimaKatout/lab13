@@ -1,0 +1,48 @@
+body {
+    background: lightgray;
+  }
+  header {
+    text-align: center;
+    border: 10px palevioletred;
+    color: deeppink;
+    margin-bottom: 40px;
+  }
+  header nav ul {
+    list-style: none;
+  }
+  header nav ul li {
+    display: inline-block;
+    padding: 10px;
+  }
+  header nav ul li a {
+    text-decoration: none;
+   
+    color: purple;
+    font-size: 25px;
+    font-weight: 100;
+  }
+  header nav ul li a:hover {
+    color: white;
+  }
+  #imagesSection {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  img {
+    /*width: 300px;
+    height: 300px;
+    border: 10px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;*/
+
+
+    height: 300px;
+    border: 3px solid purple;
+     
+    margin: 10px;
+    border-radius: 11px;
+}
+  
+  
